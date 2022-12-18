@@ -1,0 +1,23 @@
+html{
+    -ms-text-size-adjust:100%;
+    -webkit-text-size-adjust:100%;
+}
+ body{
+    /* width: 100px;
+    height: 100px; */
+    display: flex;
+    justify-content: space-evenly;
+    background-color: chartreuse;
+    margin:0;
+    border-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+ }
+ p{
+    display: flex;
+    margin: 5;
+    font-size: 20px;
+    color: coral;
+    border-color: aqua;
+    padding: 10px;
+ }
